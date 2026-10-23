@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/b979b21b-0add-42c2-992b-9153dc81f8e0" />
+
 A bypass for the PaperTek (or a similar website) full screen and focus check.
 PaperTek warns you if you exit full screen or focus out of the app and warns the teach (slang for teacher).
 This JS interferes with the check and tricks the website into thinking you are always in fullscreen and on the page.
