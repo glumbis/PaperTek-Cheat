@@ -1,5 +1,5 @@
 A bypass for the PaperTek (or a similar website) full screen and focus check.
-PaperTek warns you if you exit full screen or focus out of the app and warns the tech (slang for teacher).
+PaperTek warns you if you exit full screen or focus out of the app and warns the teach (slang for teacher).
 This JS interferes with the check and tricks the website into thinking you are always in fullscreen and on the page.
 PaperTek and similar pages check if you are fullscreen in many ways this blocks all of them by 
 interrupting its checks and sending fake answers to its checks.
